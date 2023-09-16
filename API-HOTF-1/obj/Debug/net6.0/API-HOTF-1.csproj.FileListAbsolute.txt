@@ -36,3 +36,11 @@ D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\obj\Debug\net6.0\
 D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\obj\Debug\net6.0\API-HOTF-1.pdb
 D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\obj\Debug\net6.0\API-HOTF-1.genruntimeconfig.cache
 D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\obj\Debug\net6.0\ref\API-HOTF-1.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\Figgle.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\MSHelper.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\MSHelper.Swagger.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\Scrutor.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\Scrutor.AspNetCore.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Cibertec Programacion\Visual Carpetas\API-HOTF-1\API-HOTF-1\bin\Debug\net6.0\Swashbuckle.AspNetCore.ReDoc.dll
